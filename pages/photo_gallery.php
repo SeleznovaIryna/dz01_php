@@ -1,8 +1,8 @@
 <img src="img/01.jpg" alt="" width="900">
-<div>photo_1</div>
+<p>photo_1</p>
 
 <img src="img/02.jpg" alt="" width="900">
-<div>photo_2</div>
+<p>photo_2</p>
 
 <img src="img/03.jpg" alt="" width="900">
-<div>photo_3</div>
+<p>photo_3</p>
